@@ -6,3 +6,10 @@ plotly
 folium
 streamlit_folium
 python-dotenv
+pysqlite3-binary
+sentence-transformers
+chromadb
+dydantic
+typing-extensions
+datetime
+openai
